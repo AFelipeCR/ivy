@@ -1,0 +1,15 @@
+@import 'bulma/css/bulma.css';
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+
+.w-100 {
+    width: 100%;
+}
+
+.has-border {
+    border: 1px solid;
+    border-color: hsl(221, 14%, calc(24% + 0%));
+}
+
+.has-border.is-rounded{
+    border-radius: .375rem
+}
